@@ -12,7 +12,7 @@
 
 ## 💡 About Me
 
-🎓 Pursuing BCA with IoT at Kristu Jayanti College, Bangalore
+🎓 Pursuing BCA with IoT at Kristu Jayanti University, Bangalore
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Kristu-Jayanti-College-Logo.png" alt="Kristu Jayanti College" width="20" style="vertical-align:middle;"/>
 
 💻 Skilled in HTML, CSS, JavaScript, C Programming, and Python  
